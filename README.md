@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
- Ping Estate Template
+ Code Editor Playground
 </h1>
 
 ## 👀 Introduction

@@ -16,4 +16,4 @@
 
 2.  **What's the plan?**
 
-I would like to push beyond the basics and expand this project into something like code pen and play around with the bugs I found.
+    I would like to push beyond the basics and expand this project into something like code pen and play around with the bugs I found.
